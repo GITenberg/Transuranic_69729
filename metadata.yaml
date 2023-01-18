@@ -1,0 +1,39 @@
+_repo: Transuranic_69729
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Astarita, Rafael Jerard Norman
+    alias: Astarita
+    birthdate: 1912
+    deathdate: 1994
+    gutenberg_agent_id: '52841'
+    url: http://www.gutenberg.org/2009/agents/52841
+creator:
+  author:
+    agent_name: Hamilton, Edmond
+    aliases:
+    - Blade, Alexander
+    - Sterling, Brett
+    birthdate: 1904
+    deathdate: 1977
+    gutenberg_agent_id: '26787'
+    url: http://www.gutenberg.org/2009/agents/26787
+    wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
+description: ''
+gutenberg_issued: '2023-01-07'
+identifiers:
+  gutenberg: '69729'
+language: en
+pgterms:marc905: 20220614173037hamilton
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net.
+publication_note: 'United States: Standard Magazines, Inc.,1947.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Transuranic
+url: http://www.gutenberg.org/ebooks/69729
