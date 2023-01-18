@@ -1,0 +1,1362 @@
+﻿The Project Gutenberg eBook of Transuranic, by Edmond Hamilton
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Transuranic
+
+Author: Edmond Hamilton
+
+Illustrator: Astarita
+
+Release Date: January 7, 2023 [eBook #69729]
+
+Language: English
+
+Produced by: Greg Weeks, Mary Meehan and the Online Distributed
+             Proofreading Team at http://www.pgdp.net.
+
+*** START OF THE PROJECT GUTENBERG EBOOK TRANSURANIC ***
+
+
+
+
+
+                              TRANSURANIC
+
+                     A Novelet By EDMOND HAMILTON
+
+           [Transcriber's Note: This etext was produced from
+                Thrilling Wonder Stories February 1948.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+
+
+                               CHAPTER I
+
+                        _Unexpected Discovery_
+
+
+It was Andersen's queer talk that marked the beginning of it for
+us. Of course, that wasn't the real beginning. I suppose you might
+say it really started when Becquerel first puzzled over his fogged
+photographic plates. But to us, Andersen's premonitions were the start.
+
+We called him the "Melancholy Dane." But that was just a joke, though
+his tall, cadaverous appearance fitted it. He wasn't really a gloomy
+sort, and was a first-class nuclear chemist. That was why he surprised
+us with what he said at dinner that night.
+
+The talk had been shop talk, of course it nearly always was that, at
+Transuranic Station. Zarias had been triumphant about the way that
+Element Number 144 was going through the "canyons."
+
+"Fifty new transuranic elements, not counting the gaps!" he exulted.
+"And I'm sure One-forty-four will be at least semi-stable."
+
+Andersen spoke, then.
+
+"I have a feeling that what we are doing here is against the cosmic
+scheme," he said in his slow English.
+
+Zarias goggled. He was a fat, bald and irreverent Greek, a brilliant
+physicist with about as much mysticism as a doorknob.
+
+"Cosmic scheme?" he repeated. "What are you talking about?"
+
+Andersen's sallow face flushed a little as he saw that we were all
+looking at him curiously.
+
+"I mean," he said hesitantly, "that all these transuranic elements
+we're creating here are purely man-made. Nothing like them ever existed
+in the natural cosmos. They're an artificial intrusion, a brand-new
+order of matter that doesn't rightly belong in our universe at all."
+
+Zarias snorted. "My dear Dane, I'd advise you to consult our friend
+Varez on the state of your psyche."
+
+I saw that Andersen was a little hurt. "He's only joking, Nils," I put
+in.
+
+Zarias swore. "I am not joking, Drummond. When a serious scientist
+starts going mystic, it's time he had his complexes checked."
+
+"Come, come, gentlemen," said Burris, in his mocking way. "We must
+remember not to get on one another's nerves!"
+
+We all laughed at that, for it was spoken in the Director's pompous
+manner, and recalled the best joke we had at Transuranic Station. It
+was a worn-out joke, but still welcome in our isolation and monotony.
+
+Now please don't misunderstand me. I'm not going to strike that "Ah,
+the loneliness of it all!" pose. The first atomic scientists who served
+at Transuranic Station pretty well overdid that pose for the benefit of
+an admiring world. Personally, it always made me sick.
+
+       *       *       *       *       *
+
+But it _was_ a lonely environment; there's no getting away from
+that. Thirty scientists and technicians, twenty-one of them men and
+nine of them women, doing a six-month stretch in this complex tomb of
+concrete and metal sunk in the face of the Moon.
+
+When we had first arrived to take over Transuranic Station, we had been
+solemnly admonished by Cubbison, our Director.
+
+"The most important thing of all," he told us, "is not to get on one
+another's nerves."
+
+The joke of that was that Cubbison himself was the only man who got on
+everybody's nerves. Doctor Walter Cubbison--he always insisted on the
+"Doctor"--was as fine a specimen of scientific bureaucrat as you'd want
+to see. He had done good research back in the 1950's but that wasn't
+what had wangled the Commission on Atomic Energy into making him head
+of Transuranic Station. It was his political ability, we all knew.
+
+"There must be no emotional obstacles to our work," he had adjured us.
+"All such problems must be submitted to our able psychologist, Doctor
+Varez."
+
+Well, despite Cubbison's worry over our nerves, we hadn't had to bother
+Varez yet. We were too well-adjusted a lot for that. But now Nils
+Andersen seemed to have gone off the deep end, a little.
+
+He had given me something to think about, though. It had never occurred
+to me that Transuranic Station was an outpost of unprecedented defiance
+of normality. But in a way, it was.
+
+It's not easy to explain to laymen. It's all very well to write a
+"Primer of the Atom," but you just can't make nuclear physics as easy
+to understand as a ball game. But I'll try to explain what Andersen
+meant.
+
+There were, until the early 1940's, ninety-two elements in nature. They
+ran from hydrogen up to uranium, from atomic Number One to Ninety-two.
+Those elements made up everything in nature. Mendelieff had neatly
+arranged them in his periodic table and there just weren't any more.
+
+Then they got to bombarding uranium with neutrons to create the uranium
+fission on which atomic energy is based. And they found that one
+isotope of uranium would absorb a neutron and then eject an electron.
+That stepped up its atomic number, the number of charges in its
+nucleus, from ninety-two to ninety-three. And that meant it wasn't
+uranium any longer but a brand-new element, neptunium.
+
+Neptunium was boosted up naturally by the same process to atomic
+Number Ninety-four, and so we had plutonium. And then in 1946 the
+University of California scientists started the job of trying to add
+carbon, Number Six, to uranium, to make another new element--Number
+Ninety-eight.
+
+You see what had happened? For the first time in history, the "normal"
+range of ninety-two elements had been extended. New elements,
+transuranic elements, had been created such as had never appeared at
+all naturally. They were a totally artificial new kind of matter.
+
+Of course, the atomic physicists didn't stop there. They kept up the
+boosting process to create more new transuranic elements. By 1960 they
+had run the transuranic elements clear up to Number One-twenty-eight.
+Of course, many of them were unstable and could be kept in existence
+only under special conditions. And after the Cambridge disaster, the
+Commission got a little nervous about the whole business.
+
+That's why they had established Transuranic Station up here on the Moon
+where a blow-up wouldn't harm anybody--except scientists. The rocket
+boys had got to the Moon before 1951 and had found it wasn't good for
+much else but such a station. So it had been built here on the face of
+the flat Mare Imbrium.
+
+The "Dome" was what we called the central living quarters. For safety
+in emergency it had forty-foot walls that could stop any radiation ever
+heard of. The labs were grouped loosely around it like planets around
+a sun, connected by sealed underground tunnels. The big atomic piles
+and separation "canyons" ran off underground, with full remote-control
+facilities.
+
+The whole place was Earth-conditioned, with magnetized floors that
+approximated normal gravity when we wore our steel-soled shoes. Even
+so, men and women couldn't take more than six months of it without
+organic trouble. We were the second shift of scientists to work at the
+Station.
+
+       *       *       *       *       *
+
+We had begun where the first shift left off, at transuranic element
+Number One-thirty-six. And with Zarias sparking the work, we had run
+the new elements up to a hundred and forty-four, the last one just
+being separated now. And it looked as though we're now working into a
+more stable series of elements.
+
+That's why Andersen irked me a little with his talk of these new
+elements being a challenge to the normal cosmos.
+
+"Everything man does is a challenge like that," I told him next day in
+his lab. "The first time he smelted iron or sent a radio message, it
+was the same."
+
+Andersen shook his head. "Not quite the same, Drummond. Iron and
+electromagnetic vibrations always existed in Nature. We just used them.
+But these transuranic elements--they _never_ existed before."
+
+Before I could argue further, the inter-phone across his lab squawked
+in Zarias' voice.
+
+"Drummond! Andersen! Come over here and I'll show you something!"
+
+We went through the tunnels in a hurry, to Main Physics lab. There were
+already a half-dozen others there--Marie Laurent, Burris, Varez and
+others.
+
+"Take a look at the panel of Chamber N!" Zarias yelled at us.
+
+The remote-controls that handled all the machinery in the "canyons" and
+buried chambers outside the labs were concentrated on one wall of Main
+Physics lab. There was a panel of registering gauges and a televisor
+screen above the controls of each distant chamber.
+
+We looked in the screen first. In Chamber N was a roughly oval mass of
+tawny metal that was a foot across.
+
+"Element One-forty-four, huh?" I said to Zarias. "You've sure separated
+a lot of it."
+
+"Look at those radiation gauges!" he yelped. "The gauges, not the
+screen!"
+
+We looked, and were stunned. The gauges showed that radiation was
+pouring out _through_ the walls of Chamber N.
+
+"Holy cats!" yelled Burris. "Chamber N is leaking radiation like a
+sieve!"
+
+"Impossible!" exclaimed Marie Laurent, blue eyes stunned. "Those walls
+should hold everything from Alpha to neutrons! Let me check it!"
+
+When she and Burris, our two radiation experts, finished that check,
+they looked more dazed than before. Marie wiped back a disorderly lock
+of her heavy dull-blond hair, in a stunned way.
+
+"That radiation from Element One-forty-four is something completely
+new!" she said incredulously. "It's way down in the forty-fourth minus
+octave, and it's going through those ray-proof walls like paper!"
+
+Zarias began to swear. He swore in Greek, and he hardly ever did that.
+I knew then how badly upset he was.
+
+"We've stumbled onto something new, and maybe it's bad and maybe it's
+good, but it's new!" he finished. "A new type of radiation!"
+
+All this time, Andersen had stood behind me staring into the visor of
+Chamber N in a blank sort of way. In our excitement, we hadn't paid him
+any attention. But now as we stood dazed and silent, he spoke. He spoke
+in a queer, halting way, his eyes fixed on the televisor screen.
+
+"We must bring that mass of One-forty-four and a lot of the other
+transuranic elements out of the chambers, into this lab," he said.
+
+Burris uttered a yelp. "Are you crazy? That new ray might induce enough
+unpredictable activity in the other elements to trigger a big fission!"
+
+Andersen just looked at him vaguely. "We must do that," he murmured.
+"It has been born, but It is still weak. We must help It grow stronger,
+or It will die."
+
+There was a sick silence, then. And in it, all the excitement of our
+unexpected discovery drained right out of us.
+
+
+
+
+                              CHAPTER II
+
+                         _An Alien Intrusion_
+
+
+We knew what had happened, all right. It happened to three of the first
+shift of scientists at Transuranic Station. They had cracked up badly,
+and that's why we had a psychologist with our shift.
+
+I realized now we should have known it the way Andersen had talked the
+night before. Of course, he had seemed normal then. But now his dazed,
+earnest look and halting, crazy talk meant just one thing.
+
+Varez went to him and spoke quietly. "Perhaps you are right, Nils. Will
+you come and talk it over with me?"
+
+Andersen looked at him earnestly. "You understand, Ramon? It needs
+strength. We must help It."
+
+"I understand a little," said Varez, taking the Dane's arm. He walked
+with him toward the door. "I want you to explain it to me."
+
+And then Varez' good work was nearly undone by Doctor Cubbison. He
+stood in the door, and his high, rasping voice complained.
+
+"Really, Doctor Andersen, I am surprised at your absurd suggestion! I
+really feel I must report this to the Commission."
+
+"That will be enough," said Varez in his soft voice, and yet there was
+something in it that shut Cubbison up at once.
+
+But when Varez and Andersen had gone, Cubbison started again.
+
+"This new radiation must be shielded off at once!" he fussed. "See to
+it immediately, Doctor Laurent! I'll report to New York."
+
+It was like him, that order. It was like him to order Marie to devise
+instantly a shield for a radiation that no one before had dreamed to
+exist. But she silently started making capture cross-section tests of
+various shielding materials, by the remote-control.
+
+By that "evening"--we kept Earth time at the Station--the radiation
+from Element One-forty-four was still a mystery. It was still leaking
+out of that chamber, though of course even it couldn't enter the Dome.
+Marie and Burris had been making their capture cross-sections all day.
+
+Zarias was badly upset, at dinner that night in the Dome. He was upset
+because this new radiation had suddenly cut the ground from under all
+the physics he knew so well.
+
+"We're exactly where the Curies and Rutherford were fifty years ago!"
+he kept saying. "We're on the brink of unexplored territory!"
+
+Marie Laurent was silent at dinner, and afterward I saw her go up
+the stair to the lookout. I followed and found her gazing out of the
+filter-windows at the glaring, ghastly desert of the Mare Imbrium over
+which swung the dull green shield of Earth.
+
+They say that when a man reports for duty at Transuranic Station he
+spends his whole first day peering raptly from the lookout, and then
+never goes up there again. It's nearly the truth--the novelty of being
+on the Moon wears off fast, when nothing out there ever changes.
+
+Marie turned around and smiled at me. "You might have waited long
+enough to make your coming look casual, Frank."
+
+"Why the devil should I?" I told her. "Everyone in the Station knows
+how I chase you."
+
+She didn't object when I kissed her. I liked the cool firmness of her
+lips, and the warm firmness of her body in my arms, and the way her
+disorderly lock of dull-blond hair fell across her forehead.
+
+She wasn't pretty. Her mouth was too wide and her face had a little too
+much strength. No, she wasn't pretty--but she was beautiful.
+
+She pushed me away. "I'm getting to like that a little too much, Frank."
+
+"I wish you'd take me seriously," I complained.
+
+She laughed. "Be reasonable! I'm twenty-nine years old to your
+twenty-seven, I'm a very plain girl, and we don't know each other at
+all. It's just propinquity."
+
+I was annoyed because she always fended me off that way. But before I
+could argue, we heard a step on the stair. It was Varez who came up
+into the lookout. He smiled at us in his quiet way. He was a dark,
+soft-spoken young Costa Rican whom we all liked.
+
+"Just the man I want to see," I said. "I have an emotional problem.
+It's Marie."
+
+"What can I do about that, Drummond?" he countered.
+
+Marie laughed. "Probably Frank wants you to order me to spend a
+week-end with him, when we return to Earth."
+
+"You French all have evil minds," I told her. And then asked Varez,
+"Tell her she has to marry me."
+
+Varez laughed softly. "Transuranic Station is like heaven in only one
+way--there is no giving in marriage. I can't help you, Drummond."
+
+       *       *       *       *       *
+
+It struck me suddenly that he looked tired and depressed.
+
+"What about Nils?" I asked. "Is he all right now?"
+
+"I don't know," murmured the psychologist.
+
+He peered out of the window at the terminator creeping like a tide of
+darkness across the ghastly lunar plain. In the Earthshine, distant
+craters fanged the star-specked sky.
+
+"Can you tell us what Andersen meant by his talk in the lab?" Marie
+asked him soberly.
+
+Varez turned slowly. "It's all rather baffling. He talked at first only
+of something called 'It'. It had been born and It must grow. It needed
+strength."
+
+He frowned. "When I tried to probe deeper, I just couldn't get
+anywhere. I tried hypnosis, but it didn't work. That amazed me, for
+Andersen seemed a susceptible type. I finally gave him a sedative and
+left him to sleep."
+
+Marie was silent a moment. "Do you think there could be any
+connection--"
+
+She was interrupted by feet pounding up the little steel stair. It was
+Carew, the gangling English youngster who was Zarias' assistant, who
+burst into the lookout. He looked upset.
+
+"Doctor Varez, I thought I ought to tell you! I just saw Doctor
+Andersen going into Main Physics lab! Of course it's none of my
+business, but I heard about what happened today, and he looked so queer
+and dazed!"
+
+All three of us were startled.
+
+"We'd better get hold of him at once!" exclaimed Varez.
+
+We ran down the stair, and Burris and Mathers, the chief mathematician
+of the Station, joined us as we hurried across the Dome to the main
+tunnel into the labs. Burris' face was taut as he ran.
+
+"That cracked idea of his of bringing a lot of the transuranic elements
+together--if he tried that--"
+
+"This way!" yelled Zarias, his voice from ahead of us sounding
+strangled. "Hurry!"
+
+We burst into the big Main Physics lab. The first thing we saw was
+Zarias scrambling to his feet by one wall. His face was deathly white
+and he had blood on his forehead.
+
+Across the big lab, Andersen was working like a madman with the
+remote-controls by which the transuranic elements could be mechanically
+brought from their safety chambers into the lab. The Dane had a blank,
+unseeing look on his face as he yanked conveyor-switches one after
+another.
+
+Burris yelled as we ran forward. I heard the clash and grind of gears,
+and glimpsed lead trays sliding out of their conveyor tubes onto the
+racks, trays with a dozen different new transuranic elements in them.
+
+The tray with the oval mass of Element One-forty-four in it popped out,
+as I ran forward. Instantly, that ovoid of tawny metal burst into a
+shimmering glow of light that seemed to reach toward the other trays.
+
+Zarias shouted thickly behind me. "Stop him before he brings--"
+
+I have to choose my words carefully now. For what happened in the next
+instant is still not too clear in my memory. There was a sudden feeling
+of tension in the air. It was the hunch, the sixth sense, that thrills
+through a radiologist sometimes just before a blow-up.
+
+"Look _out_!" Burris yelled, and I knew from that that he felt it,
+too.
+
+And then it hit us. I'm not trying to be cryptic about all this. It's
+just that it was so unearthly it's hard to describe. There was a
+feeling of tingling force going through my body, and at the same moment
+something jabbed into my mind. I mean that I felt an alien intrusion
+battering into my thoughts.
+
+I want to be precise. And I know that what I've just written may recall
+fantasies of alien beings delicately and deftly probing into the human
+mind. It wasn't like that at all. The nearest I can describe it is this
+way--if my mind were a complicated watch, what had grabbed it was the
+uncertain, fumbling hand of a child.
+
+"Frank!" said Marie uncertainly, her face drained of all color. And
+then she suddenly screamed it. "_Frank!_"
+
+       *       *       *       *       *
+
+Burris was the one who saved us then. He said afterward that he felt
+that sickening, fumbling mental grasp as we did, but that his first
+premonition of a blow-up had given him a certain physical momentum that
+carried him through.
+
+Anyway, he was the one who shoved us toward the door into the corridor.
+I don't remember much of that moment. I dimly recall seeing Mathers,
+his ascetic face blank and strange, walking stiffly toward Andersen as
+the Dane stood working the chamber-controls.
+
+I don't remember any more of it until the moment I found myself out in
+the corridor with Zarias and Marie and Varez and young Carew, and heard
+Burris frantically slamming the Main Physics door. The grabbling of
+impossible fingers on my brain stopped then. I turned around shakily
+and found young Carew being sick against the corridor wall.
+
+"What _is_ it?" cried Marie, her eyes wide with horror. "Something
+that touched our minds, that radiation--"
+
+Zarias saved us from collapse in that moment, I think. The Greek's
+black eyes were blazing with scientific passion now.
+
+"Andersen was right--he sensed it from the first!" he cried. "It has
+been born--a new and undreamed of form of life! Transuranic life!"
+
+"You're mad!" Marie said huskily. "It can only be a queer psychological
+effect of that new radiation!"
+
+"That new radiation _is_ life!" Zarias cried fiercely. "Life of
+a kind never before existing in the cosmos, because the transuranic
+elements themselves never existed!" He swept on, as we stood dazed.
+"What is _our_ kind of life? Is it the sulfur, phosphorus, and
+carbon and other elements of our bodies? You know it is not. There's a
+spark there, a chemical spark kindled long ago on the primal Earth,
+that unites those inert elements into a living organism.
+
+"The same way with It. This new radiation from Element One-forty-four
+is the spark--a spark never existing before in the universe. A spark
+that has grown with superhuman swiftness now, linking separated
+transuranic elements together in a strange, loose physical body whose
+nerves are intangible radiation! A body--and a _mind_! Only a
+newborn mind yet, but powerful enough already to warp Andersen into
+helping Its body grow in strength by bringing those elements together!
+And now--"
+
+Zarias didn't get a chance to finish. Carew, sick and staggering,
+uttered a thin, high cry.
+
+"It's here again!" His face was ghastly.
+
+My own face must have been, for I felt it, too, at that moment. The
+fumbling groping of tingling, intangible hands on my brain.
+
+"The Dome!" Zarias shouted thickly. "It's strong enough to reach out of
+the labs, but the Dome's walls will hold It out!"
+
+
+
+
+                              CHAPTER III
+
+                          _Clutching Fingers_
+
+
+As we stumbled frantically down the corridor, my arm was around Marie.
+Zarias yanked an alarm signal as he ran, and bells shrilled up and down
+the corridors. Feet pounded down the lab tunnels, and startled voices
+called questions.
+
+That general alarm jammed us all at the door of the Dome for a moment.
+Impossible fingers were fumbling our brains and we were driven by a
+primitive, unreasoning horror.
+
+Then the ponderous boom of the main door closing punctuated the
+nightmare experience. I found myself in the little crowd by the door.
+Nearly everyone in the Station was there, excited and stunned.
+
+Doctor Cubbison appeared on the scene. "What's the reason for the
+general alarm? Has there been a blow-up?"
+
+Zarias laughed mirthlessly. "There has been a blow-up. A bad one. New
+life has been born--_new_ life. Something alien to our cosmos,
+something Nature never intended to exist here, but which we clever
+little people brought into being. Andersen was right last night!" His
+voice rasped higher. "Right now, It's in there in Main Physics lab!
+What is It? It's twenty-odd chunks of transuranic elements, formed into
+an organized body by linking radiation-nerves, by which it can think,
+feel and _act_. It's only newly born, It doesn't know much yet,
+but It knows that It wants to grow!"
+
+Cubbison looked impatient. "Really, these dramatics--"
+
+Zarias suddenly relaxed. "You're right. Just dramatics." He looked
+around. "We're scientists. We have a problem to deal with. And we've
+got to deal with it quickly before it finishes us."
+
+"What real danger can there be?" Cubbison asked dubiously.
+
+"You didn't feel those fingers of radiation groping at your mind?"
+Marie asked him.
+
+Burris came stumbling back from across the Dome.
+
+"I've checked the main telltale panel!" he said hoarsely. "All the
+canyons are going full tilt. Andersen must be operating them!"
+
+Zarias spoke swiftly and coolly now. "The thing has been born and It
+wants to grow. And It will grow, using Andersen and Mathers and anyone
+else It can get hold of to create more transuranic elements, form them
+into a bigger and bigger body, until Its radiation-mind can reach even
+through the Dome's walls, even maybe to other worlds!"
+
+I felt the full impact of horror, then. I realized that we had set the
+stage for the birth of a life of radiation and radiating elements that
+could not share the cosmos with our own kind of life.
+
+"It can grow colossal, but It isn't colossal now," Zarias went on.
+"It's newborn, fumbling, groping. We have to kill It before It gets
+bigger."
+
+"But how?" cried Marie. "How can you kill a thing of chemical elements
+and radiation?"
+
+The Greek set his teeth. "We've got to get back into Main Physics
+lab and break up Its body by switching those elements back to their
+chambers. Then we can use the emergency-charges to explode the chambers
+and so destroy It."
+
+He looked at Marie and Burris. "We'll need shields to keep that
+radiation off our brains. What will hold it out best?"
+
+"Beryllium, I think," Burris answered. "It seems to be the foot of
+beryllium in the Dome's walls that's shielding it out now. But you
+can't make protective helmets of foot-thick beryllium."
+
+"We'll plate anti-rad helmets as thickly with beryllium as we can,"
+Zarias retorted, "and take our chances."
+
+Cubbison finally got a chance to speak. He spoke as fussily as though
+all this were some annoying ordinary accident.
+
+"This is all very upsetting! I shall have to report to New York at
+once. In the mean-time, I leave you in charge of the problem, Doctor
+Zarias."
+
+He hurried off, and Burris laughed sourly.
+
+"If the universe was about to come to an end, he'd get in a report to
+New York."
+
+We left Marie to watch the telltales and report to us what Andersen and
+Mathers were doing in the lab. It was a hideous thing to have in our
+thoughts as we worked on the helmets--the knowledge that those two were
+puppets working in the uncanny Thing's grip.
+
+The whole Station was seething with excitement, of course. Everyone
+swarmed around the improvised workshop where we and the technics
+sweated to cover three anti-rad helmets with extra-thick layers of
+beryllium.
+
+       *       *       *       *       *
+
+Everyone knew there had been some kind of a blow-up in Main Physics,
+but the truth was still too incredible for them. The idea of a new
+birth of transuranic life, a thing of radiation and unearthly new
+elements that was a sudden terrible enemy in our midst, was too much
+for them yet. They thought it was just a crack-up on Andersen's part.
+
+"They may protect us long enough to get at the chamber-controls in
+there," Zarias muttered, eyeing our clumsy helmets when we finished.
+
+Cubbison came stalking back to us as we returned to the lab corridor
+entrance. His spectacles glittered worriedly at us.
+
+"I've talked to New York and have arranged with the Commission against
+any mishap here," he announced.
+
+"What do you mean, mishap?" snapped Zarias. "We've already had one."
+
+"I mean, if we can't cope with this transuranic Thing," Cubbison
+answered fussily. "It might get all of us under control as it has
+Andersen and Mathers. In that case, we'd all be working to help It
+grow. The Commission is sending two rockets at once to take off all
+Station personnel if the situation here becomes untenable. But in case
+we're overpowered by the Thing before the rockets can get here, and
+fail to maintain intelligent communication by televisor, the rockets
+will drop plutonium bombs on the Station."
+
+We stared at him. "You mean, destroy the Station?" said Burris.
+"Destroy all of us?"
+
+Cubbison nodded, frowning. "It's regrettable, but it would have to be
+done if the Thing in there proves too much for us before the rockets
+come. We can take no chance of Its growing beyond the Moon in power."
+
+Zarias' face worked, and he went up to Cubbison and took his hand. "I
+want to say that I am sorry, sir," the Greek said huskily.
+
+"Sorry?" Cubbison asked annoyedly. "Sorry about what? Really, Doctor
+Zarias, you are being obscure."
+
+But we knew what Zarias meant--we all knew, for we all felt the same
+shame as he did at our misjudgment of the man before us. Pompous,
+vain, stuffy--yes, Cubbison was all those things. But what we hadn't
+suspected was that he was the best scientist, and the best man, among
+us.
+
+We knew, now! We knew it wasn't bureaucratic intriguing that had led
+the Commission to put him at the head of the Station. We knew, and were
+ashamed.
+
+I don't think Cubbison dreamed what we were thinking.
+
+"Now, Doctor Zarias," he went on briskly, "if you'll explain how you
+propose to deal with this Thing?"
+
+"We've got to rush It before It gets stronger," Zarias said. "Burris,
+Drummond and I will wear these beryllium-shielded helmets. They may
+hold out the radiation well enough to let us shove the transuranic
+elements back to their chambers, and thus break Its body up."
+
+"And if the helmets don't hold?" Marie asked anxiously.
+
+No one answered her. There wasn't any answer.
+
+Young Carew stood ready at the lab corridor door as we put on the
+helmets and adjusted them so we could see through the lead-glass
+eye-slits. Then we crouched at the door like sprinters before a start.
+
+My heart was hammering and I'm not ashamed to confess that I was
+horribly afraid. Whatever It was that was in Main Physics, It wasn't
+anything a man had ever faced before. And if we failed--
+
+Carew gave me no more time to think of that. He swung the heavy door
+open, we dashed through, and it slammed behind us. We ran down the
+corridor to Main Physics, and a wild elation soared in me, for aside
+from a tingling sensation all through me, I didn't feel anything
+unusual.
+
+"The Thing isn't attacking us!" Burris shouted, muffledly. "We'll make
+it!"
+
+Whether it was his shout or the fact that we burst into Main Physics
+lab at that moment that did it, I don't know. I don't, in fact,
+remember much of the next few minutes. I do recall that as we burst
+into the lab, Mathers and Andersen were working in the same dazed,
+mechanical way with the canyon controls.
+
+And I recall that they had arranged the lead trays that contained
+chunks or heaps of the glowing transuranic elements in a curious
+circular pattern around the conveyor-rack on which the tray of
+radiant Element One-forty-four still rested. And that between the
+One-forty-four and the other elements, the shimmering radiation of Its
+nerves pulsed and throbbed.
+
+"One-forty-four is the brain--switch it back first!" Zarias shouted as
+we plunged into the lab.
+
+And then it hit us. It wasn't the groping fingers of radiation that had
+fumbled with our brains the first time. They were stronger now, those
+intangible fingers, and they weren't groping.
+
+They grabbed our minds and held them. I was still conscious, I was
+still Frank Drummond, but I didn't have a body any more. It held my
+brain and body. I felt the impact of Its mind. And there was no hate or
+fear or passion in it. There was only--wonder.
+
+It had picked up us three men, had picked us up by our brains just as
+a child might pick up puppies by their necks and wonderingly examine
+them. And there was a strange and alien cleanness about that intangible
+grasp on my brain. It was as clean and strange as starlight.
+
+I knew we had failed, and the part of me that was still Frank Drummond
+agonized in the knowledge. Then came the crash.
+
+Burris had pitched forward so madly into the lab that he caromed into
+the blank-faced Mathers, even after It gripped us.
+
+The grip on my brain suddenly relaxed. The crash had startled It, or
+had turned Its attention for a moment.
+
+"Back out, Drummond!" Zarias screeched.
+
+He clawed me back through the lab door and slammed it. Instantly, the
+clutch of It grabbed at my brain again. But through that heavy door,
+through our helmets, the clutch was not quite so strong. We could fight
+it, out here in the corridor.
+
+"Burris!" I choked, but the Greek gave me a furious shove back down the
+corridor toward the Dome.
+
+"No use! He's gone! Another second and we'll be gone too!"
+
+
+
+
+                              CHAPTER IV
+
+                          _Destructive "Toy"_
+
+
+I believe we would not have got into the Dome if Carew had not heard us
+coming and had the door open in time. The slam of the heavier Dome door
+cut that unholy, wondering, alien grasp from our minds instantly.
+
+I stumbled and would have fallen but for Marie's firm arm around me.
+Zarias' face was livid when he took his helmet off, and I knew then
+what my own must look like.
+
+"Burris?" said Ramon Varez quietly.
+
+"In there," croaked the Greek. "In there working for It now, with
+Mathers and Andersen. Soon, maybe, all of us will be!" He got a grip on
+himself and stopped that. "By heaven, no! No Thing of minerals and rays
+can conquer men! We'll find a way!"
+
+"The helmets failed, then?" said Cubbison anxiously.
+
+"Too thin," Zarias nodded. "It'll take a foot of beryllium to protect
+us. That means armor that we can wear into the lab. And we'll have to
+make it fast."
+
+The Greek was indomitable. In the hours that followed, he sweated with
+the others as every working facility we had in the Dome was turned
+to the all-important task of making the foot-thick armor. Beryllium
+is light, but even so the suits would be heavy and massive. But we
+wouldn't have to wear them far, if we succeeded.
+
+I'd like to be able to say that I worked as hard as Zarias. I didn't. I
+was too sick and shaky, for the next hours. Only shame finally made me
+conquer that and plunge at the job with the others.
+
+"I'll go in this time, and perhaps Carew and Blauner will go with me,"
+Ramon Varez proposed.
+
+Zarias choked him off. "No! Drummond and I go again, and we will kill
+the Thing this time or not come out!"
+
+I am eternally grateful to him for that. For until then, I had felt I
+dared not face It again. And after that, I knew I had to.
+
+The hours went by. Our Earth-time schedule was forgotten. We had, to
+spur us on, Marie's report from the telltales that It must be growing
+steadily, since the canyons were working ceaselessly to build bigger
+the transuranic elements that were Its body.
+
+The armor was finished, crude, massive and gleaming. Zarias told Varez
+and me his plan.
+
+"We will all three try to do the same thing--switch that tray of
+Element One-forty-four back to its chamber, and blow the chamber.
+One-forty-four is the brain-center, the life-center, of It. It's the
+one vulnerable spot."
+
+Marie interrupted with a cry that had so much horror in it that we
+swung sharply around to where she stood at the telltales. She pointed
+at the gauges.
+
+"Look! Radiation is filtering into the Dome now!"
+
+We looked. It was true. The new radiation, the radiation that was Its
+nerve-force and will, was showing on the gauges. And at the same moment
+we felt, faintly, the strange tingle of that radiation through our
+bodies.
+
+"If It's filtering through even the Dome's walls," Carew faltered,
+"then It's so strong now--"
+
+"So strong that our foot-thick beryllium armor is no more good than
+paper!" I finished hoarsely.
+
+We knew what had happened. Hours before, the armor would have been
+effective. But in those hours, as we had worked, It had been growing
+bigger and stronger. Now It was too strong for armor of any kind. Soon
+It would be too strong even for the massive walls of the Dome.
+
+"We're sunk," said Carew, and sat down heavily and put his face in his
+hands.
+
+Cubbison's thin shoulders sagged a little. "I fear the situation is
+bad. Before the rockets can get here to take us off, It will control
+everyone in the Dome. And when that happens--"
+
+When that happened, when we were all mindless puppets who couldn't
+answer the televisor, those rockets would carry out Cubbison's orders
+and obliterate us and the Station together.
+
+"_I_ won't quit without at least a fight!" Zarias raged. "I'm
+going in there!"
+
+       *       *       *       *       *
+
+He started to get into his armor. But Ramon Varez caught his arm.
+
+"Zarias, wait!" cried the Costa Rican. "There's still a chance, if
+you'll let me try it! A stratagem based on psychology."
+
+Zarias laughed mirthlessly. "Our sciences are our master passions right
+to death. Thanks, Ramon. But your psychology is no good against a Thing
+that doesn't live and think as we do."
+
+"Some basic rules of psychology are the same for _any_ kind of
+life!" Varez insisted. "Let me try! It'll take only a few minutes!"
+
+He ran off across the Dome. We didn't look after him. We looked dully
+and tiredly at each other.
+
+Marie came to me and stood close beside me. What was in her eyes should
+have made me feel happier, but it didn't. It agonized me to think what
+we two were going to lose.
+
+Varez came running back. With him, he had a portable ray-projector, one
+of the compact boxes that can emit radiations of any type and are used
+to check protective shielding.
+
+"When we burst into the lab," he said eagerly, "I'll use this thing to
+shoot quick spurts of every kind of radiation, in succession, right at
+It."
+
+"And what good will that do?" cried Zarias. "Those weak test-rays will
+never harm It!"
+
+"Give me the chance to try my plan!" pleaded Varez. "There's nothing
+to be lost. I'll go in there with you, and while I use this thing on
+It, you and Drummond can try to shove Element One-forty-four back to
+its chamber."
+
+The Greek shrugged heavily. "I was going in anyway. You can bring your
+crazy gadget if you like."
+
+I got into my armor without looking at Marie. I knew I wouldn't go into
+the labs if I looked at her.
+
+Varez and Zarias were in their own armor. Varez held the ray-projector
+in one jointed beryllium arm. Zarias made a clumsy signal.
+
+"All right!" his muffled voice boomed.
+
+Carew flung the door open, and then we three were through it and
+clanking down the corridor.
+
+And Its radiation hit us in a mighty blast as we reached the door of
+Main Physics. It had grown, yes--and now Its radiant will froze us in
+our tracks.
+
+I felt again that clean, alien grip on my mind and knew I'd never get
+free of it. I saw Mathers and Anderson and Burris sweating over the
+canyon controls that kept building It bigger, and knew I'd be sweating
+with them till a plutonium bomb gave me release.
+
+And then, unexpectedly, the grip of It on our minds incredibly relaxed.
+I felt Its mental grasp shift from wonder to interest to pure delight.
+Delight in the thing that Varez held, the box that was spurting an
+unseen kaleidoscope of rays in an ever-changing pattern! In that, for
+the moment, Its attention was wholly absorbed.
+
+"_Now!_" yelled Zarias, and we two hurled ourselves forward across
+the lab.
+
+My hand hit the switch of Chamber N's conveyor. There was a grind of
+gears, and the tray of Element One-forty-four started sliding swiftly
+back from its rack into the tube.
+
+Wonder, delight, all the emotions of Its mind changed instantly to
+alarm! I felt Its thought, as a sudden wave of _hurt_ fear. And
+then it was weakening, fading, as the element that was the brain-center
+of Its strange life slid back out of the pattern of its unearthly body,
+back to its distant, buried chamber.
+
+[Illustration: Wonder, delight, all the emotions of Its mind changed
+instantly to alarm, to hurt fear.]
+
+"_Blow it!_" shrilled Varez, and Zarias' hand fumbled for another
+switch and closed it.
+
+There was a dull, distant roar and the whole Station shook as the
+tonite explosive charge set under each chamber in case of emergencies
+blew Chamber N and the Element One-forty-four in it to fragments.
+
+And then there was just a silence in the laboratory, in which I was
+conscious of Andersen and Burris lying senseless on the floor, and
+Mathers standing and looking down stupidly at his hands. The tingling
+force was gone, the impact of Its mind was gone, the shimmering glow of
+its radiation-nerves was gone. There was nothing here but a pattern of
+trays of transuranic elements, a pattern that had been a strange living
+body but that was now a dead one.
+
+       *       *       *       *       *
+
+I felt the others crowding into the lab and helping me out of my armor.
+Marie was crying as she clung to me.
+
+"How did you do it?" Cubbison was asking Varez over and over again.
+
+Varez looked down at the little ray-projector. "This did it. To It,
+this was a delightful toy, a toy of radiation, calculated to catch
+the interest of a creature whose life was radiation, just as a kitten
+would catch a human child's interest. Psychology--some of its rules are
+basic. For though It was transuranic, unhuman, non-normal, yet even so
+it was also very young, and could be distracted by the right kind of
+toy just as a young child can be. That moment of distraction gave us
+our chance."
+
+Cubbison beamed. "You've saved the Station, you three! I'll report to
+New York at once. We shall be careful in future to avoid repetition of
+this danger. But Transuranic Station's work can go on, thanks to your
+heroism."
+
+Zarias laughed. He laughed, but we saw now that there were tears in his
+eyes and running down his cheeks.
+
+"We are heroes, yes," he said. "We are heroes, because we have killed a
+baby."
+
+His voice lashed bitterly. "For It was just a baby, a baby trying to
+live and grow up in a wholly alien and hostile world. And we did it to
+death! Curse all of us for it! What are we but a lot of mucky little
+apes, strutting around now because we murdered something that could
+have been bigger than ourselves? It wasn't human, it wasn't of our
+cosmos, but it was clean and passionless and shining, and it might have
+made this whole universe one vast and wonderful mind and body! But it
+wasn't human so we had to kill it--we heroes!"
+
+He put his face in his hands and sat down blindly in a corner.
+
+Varez looked at him. "He was too many times under Its influence," he
+murmured. "He'll get over it. I--I think I know how he feels."
+
+I thought I knew, too. That burst of wonder and delight at Varez'
+"toy," that hurt, bewildered grief of the last moment--they were
+shaking me, too.
+
+Maybe Zarias was right. Maybe we had killed something that could
+have been bigger and finer than humanity. But still, this isn't a
+transuranic universe. It was the stranger here, not we.
+
+And, I have thought since, maybe it was only a forerunner. Beyond our
+old range of elements, the potentialities of the transuranic realms
+still beckon man to create. Perhaps, someday, another It will be born
+thus which will not die, but will live on after man's day is finished,
+as his strange successor and son.
+
+*** END OF THE PROJECT GUTENBERG EBOOK TRANSURANIC ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg™ electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+• You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg™ trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, “Information about donations to the Project Gutenberg
+  Literary Archive Foundation.”
+
+• You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg™
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg™
+  works.
+
+• You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+• You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you “AS-IS”, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
